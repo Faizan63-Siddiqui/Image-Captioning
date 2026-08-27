@@ -6,7 +6,7 @@ A deep learning system that generates natural language captions for images, buil
 
 Upload any image and the model generates a descriptive caption in real time via a Gradio web interface.
 
-![Demo Screenshot](sample_outputs/demo_screenshot.png)
+![Demo Screenshot](sample_outputs/demo_screenshot.png.png)
 
 ## Overview
 
